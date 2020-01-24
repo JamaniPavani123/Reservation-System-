@@ -189,7 +189,7 @@ int main()
 	
 	
 	
-	printf("\t\t\t***RAILWAY RESERVATION***\t\t\t\t\n");
+	printf("\t\t\t*** RESERVATION SYSTEM SERVICE***\t\t\t\t\n");
 	int ch =0;
 	while(ch!=4)
 	{
